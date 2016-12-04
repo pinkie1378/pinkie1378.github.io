@@ -1,0 +1,4 @@
+Background in science taken problem solving, analysis, and precision/attention to detail apply to software development.
+Code is written to be read by other people.
+Code should be concise and clearly
+Code should read like prose, concisely communicating its function to other people.

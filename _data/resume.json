@@ -1,0 +1,56 @@
+{
+    "contact_info": {
+        "name": "Jeffry Pincus, Ph.D.",
+        "address": {
+            "street": "4404 Garrett Park Rd",
+            "city": "Silver Spring",
+            "state": "MD",
+            "zip": "20906"
+        },
+        "phone": "978-494-0327",
+        "email": "jeffry.pincus@yahoo.com"
+    },
+    "statement": "TODO",
+    "education": [
+        {
+            "school": "Harvard Extension School",
+            "location": "Cambridge, MA",
+            "begin": "2013-09-01T04:00:00.000Z",
+            "end": "2015-12-01T04:00:00.000Z",
+            "degree": "Software Engineering Certificate",
+            "courses": [
+                {"CSCI-E50: Intensive Introduction to Computer Science": ["C", "JavaScript", "PHP"]},
+                {"CSCI-E51: Abstraction and Design in Computation": ["OCaml", "Git"]},
+                {"CSCI-E28: Unix/Linux Systems Programming": ["C", "Bash"]},
+                {"CSCI-E97: Software Design: Principles, Models, and Patterns": ["UML", "Java", "Astah"]},
+                {"CSCI-E71: Agile Software Development": ["Java", "Cordova", "Git"]}
+            ]
+        },
+        {
+            "school": "University of Washington",
+            "location": "Seattle, WA",
+            "begin": "2000-09-01T04:00:00.000Z",
+            "end": "2006-12-01T04:00:00.000Z",
+            "degree": "Ph.D. in Molecular and Cellular Biology",
+            "thesis": "Hypomorphic Ribonucleotide Reductase Alleles are Synthetically Lethal with Mismatch Repair Defects"
+        },
+        {
+            "school": "Massachusetts Institute of Technology",
+            "location": "Cambridge, MA",
+            "begin": "1996-09-01T04:00:00.000Z",
+            "end": "2000-06-01T04:00:00.000Z",
+            "degree": "Bachelor of Science in Biology/Life Science"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Computercraft Corporation",
+            "location": "Bethesda, MD",
+            "title": "Scientific QA Engineer for NCBI/NLM/NIH",
+            "begin": "2015-05-18T04:00:00.000Z",
+            "end": "current",
+            "description": "Create automated tests for NCBI's scientific products to replace manual testing.",
+            "technologies": ["Python", "Selenium", "Git", "JIRA", "TeamCity", "Linux", "Windows"]
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+Jeffry Pincus, Ph.D.
+9 Willard Circle
+Andover, MA  01810
+
+Cell phone: 978-494-0327
+E-mail: jeffry.pincus@gmail.com
+
+Personal Statement:
+I am formally trained in Molecular Biology, Cellular Biology, and Genetics, and spent many years working on challenging and stimulating biotechnology projects.  Recently I've built on this foundation in other endeavors, such as editing science videos, helping to manage the expansion of an entrepreneurial enterprise, and volunteering at BossLab, Boston's open-source science center.  Looking forward, I am pursuing a software engineering certificate from the Harvard Extension School, because I aspire to leverage my technical knowledge into coding useful software solutions.
+
+Professional Profile:
+* 15 years hands-on lab experience in molecular biology, microbiology, and biochemistry.
+* Expertise with S. cerevisiae, E. coli, genetics, PCR, cloning, sequencing, and mammalian cell culture.
+* Proven ability to successfully apply analytical scientific process to new and unfamiliar challenges.
+* Versatile, flexible, independently motivated, committed to accuracy and attention to detail.
+* Articulate communicator with scientists and non-scientists.
+
+Computer Skills:
+* Languages: C, Java, OCaml, PHP, JavaScript, MySQL, Bash
+* UML for software design: Astah
+* Web development (LAMP stack)
+* Operating systems: Linux (Arch, Ubuntu, Debian), Windows, and Mac OS X
+* Database and Information Management System design for Salesforce.com
+
+Laboratory Background:
+* Strain construction and genetic engineering of microorganisms (S. cerevisiae, E. coli, Geobacters)
+* Molecular biology and genetics techniques, including DNA sequencing (Sanger & Next-Gen), PCR, mutagenesis, primer design, plasmid design and construction
+* Biochemical assays, culture of aerobic and anaerobic microorganisms, and high-throughput screening for desired phenotypes
+
+Additional Skills:
+* Clear communication of technical subjects
+* Project supervision; functioning as a liaison to several different parties
+* Video post-production software: Premiere Pro, After Effects, Final Cut Pro, Motion
+* Visual graphics software: Photoshop, Illustrator, Inkscape
+* Classroom teaching and individual training
+
+Education:
+Harvard Extension School (9/2013 to current)
+Cambridge, MA
+CSCI-E50:  Intensive Introduction to Computer Science
+CSCI-E51:  Abstraction and Design in Computation
+CSCI-E28:  Unix/Linux Systems Programming
+CSCI-E97:  Software Design: Principles, Models, and Patterns
+
+University of Washington (9/2000 to 12/2006)
+Seattle, WA
+Ph.D. in Molecular and Cellular Biology
+Thesis Title: “Hypomorphic Ribonucleotide Reductase Alleles are Synthetically Lethal with Mismatch Repair Defects”
+
+Massachusetts Institute of Technology (9/1996 to 6/2000)
+Cambridge, MA
+Bachelor of Science in Biology/Life Science
+
+Experience:
+Journal of Visualized Experiments (JoVE; 1/2013 to current)
+Cambridge, MA
+Scientific Video Editor
+I ensure that the video articles published by JoVE are scientifically accurate and as insightful as possible to JoVE's audience.
+* Create and edit content for JoVE's video articles and Science Education product.
+* Address author comments on rough cut videos, and improving them beyond expectations.
+* Animate conceptual overview and results sections of the video articles.
+* Assemble complete video articles from raw footage and animations.
+* Edit the accompanying HTML text articles, ensuring quality presentation on JoVE's website.
+
+Northern Essex Community College (1/2013 to 12/2013)
+Lawrence & Haverhill, MA
+Adjunct Faculty
+Spring/Fall 2013: Instructor for course BIO.115, Physiological Chemistry. This course provides a foundation in basic chemistry, including properties of matter, energy, atomic and molecular structure, isotopes, chemical bonding, chemical formulae and reactions.
+Summer 2013: Instructor for course BIO.220, Microbiology. This course covers the structure and physiology of bacteria, viruses, and other microorganisms.  Immunology and Biotechnology are also covered.
+
+Pincus Associates (7/2011 to 1/2013)
+Andover, MA
+Senior Consultant & Board Director
+Pincus Associates is a family business that specializes in ultraviolet and electron beam curing technology.  I provided support and expertise in a variety of areas:
+* R&D of hardcoat formulations for electronic application requiring special optical properties
+* Manufacture of UV curable coatings for use in coating, printing, and adhesive applications.
+* Market research on capabilities and specifications of UV/EB curing equipment.
+* Information technology, computer applications, network and website maintenance.
+
+From 7/2011 thru 10/2011 I contracted my services as an Operations Consultant to Red Rabbit, LLC, a food service company in New York City that provides fresh and healthy school meals.  Red Rabbit expanded from 12 to 45 employees over this period, and my contract was to be the CEO's right hand man and help successfully manage the company during this transition.
+* Designed and developed a Salesforce.com based enterprise data system that allowed the company to manage client base expansion from 500 to 5000. This  solution is scalable and designed to manage vast numbers of customers across multiple service sites.
+* Developed and implemented a new Information Management System to minimize production errors and improve communication between the client services and operations departments.
+* Composed documentation and trained staff for these new systems.
+* Oversaw completion of the construction of Red Rabbit's new kitchen and office facility.  Served as a liaison between the architect, the equipment supplier, the landlord, various sub-contractors, and the neighbors.
+* Was the principal point of contact for contracted services.
+* Managed and maintained Red Rabbit's computer network.
+* Categorized company expenses in Quickbooks.
+* Composed and edited job listings for positions that needed to be filled as the company expanded.
+* Filled in wherever necessary with daily operations to help keep the company running smoothly in a fast paced environment.
+
+University of Massachusetts (3/2008 to 5/2011)
+Microbiology, Lovley Lab
+Amherst, MA
+Postdoctoral Fellow
+Worked to develop advanced genetic modification technology, utilizing a selectable/counter-selectable genetic marker and homologous recombination, in the anaerobic microbe Geobacter sulfurreducens (GSU). Also worked to metabolically engineer GSU to fix carbon.
+* Exhaustively demonstrated that traditional counter-selection agent 5-fluoroorotic acid/5-fluorouracil doesn't work in GSU.
+* Designed a new type of selectable/counter-selectable genetic marker by flanking an antibiotic resistance gene (gentamicin) with a unique nuclease (I-SceI) recognition sequence.
+* Experimented with many permutations of plasmids, antibiotic markers, GSU strains, and growth conditions in attempting to optimize the system and make it work reliably.
+* Worked with strains of GSU that were resequenced with Illumina/Solexa and 454 next-gen sequencing technologies.
+* Found and learned to use Geneious software to manage DNA sequence data and to design new plasmid and primer sequences. Also introduced and taught colleagues to use this program.
+* Measured spontaneous mutation rates in wild-type and KN400 electrode strains of GSU.
+* Mastered anaerobic culturing techniques. Optimized media preparation procedures to improve batch consistency.
+* Repaired and maintained Coy anaerobic chambers.
+* Instructed an undergraduate student in anaerobic culturing techniques and molecular biology techniques including PCR, gel electrophoresis, cloning, DNA purification, and bacterial transformation.
+* Monthly to bimonthly research updates presented to Dr. Derek Lovley and a large group of colleagues.
+* Presented posters at the 2009 American Society for Microbiology general meeting in Philadelphia and the 2008 and 2009 Geobacter conferences at UMass.
+
+Fred Hutchinson Cancer Research Center (9/2001 to 12/2006)
+Clinical Research, Simon Lab
+Seattle, WA
+Research Assistant
+Investigated the potential of the enzyme ribonucleotide reductase (RNR) as a selectively toxic anti-cancer drug target.
+* Executed a high-throughput screen for RNR alleles that are synthetically lethal with mismatch repair deletions in Saccharomyces cerevisiae.
+* Performed a battery of experiments to determine the mechanism of this phenotype:
+ - Numerous growth phenotype experiments on agar media, utilizing the various yeast strains I generated and media additives.
+ - Nucleotide pool composition via HPLC and primer extension assays.
+ - Cell cycle profile via FACS analysis.
+ - Spontaneous mutation rate measurement and sequence analysis of mutations.
+* These experiments showed that the RNR alleles cause the synthetic lethal phenotype by inducing an increased level of genomic instability due to skewed nucleotide pools.
+* Collaborated with a structural biology lab, who generated crystal structures of the RNR mutants.
+* Made extensive use of yeast genetics, molecular biology, and biochemistry techniques.
+* Regularly used Microsoft Office, Endnote, Adobe Photoshop, and ACD Canvas to analyze data, prepare presentations, and write up results.
+* Presented oral thesis defense and institute-wide presentations in front of large audiences.
+* Quarterly comprehensive research updates presented to Dr. Julian Simon and colleagues.
+* Teaching assistant for an introductory biology course and an advanced undergraduate biochemistry lab.
+
+ICOS Corporation (6/2001 to 8/2001)
+Bothell, WA
+Summer Internship
+Assisted in setting up a target verification system to test hits from primary small molecule screens. I cloned second-messenger response elements into plasmids expressing luciferase, then transfected them in mammalian cells.
+
+Millennium Pharmaceuticals, Inc. (6/2000 to 8/2000)
+Cambridge, MA
+Summer Internship
+Assisted on a high throughput small molecule screen to identify receptor antagonists. I optimized a cell-based binding assay, and I cultured and distributed the mammalian cells used in the screen.
+
+Massachusetts General Hospital (1995 to 2000, periodically)
+Endocrine Unit, Jueppner Lab
+Internship
+I began interning in this lab while in high school and periodically continued throughout college. I worked on projects to map the gene responsible for a hereditary disorder and to analyze the PTH receptor.
+
+Publications:
+Hypomorphic Ribonucleotide Reductase Alleles Are Synthetically Lethal with Mismatch Repair Defects
+JE Pincus (2006)
+Ph.D. Dissertation, Molecular and Cellular Biology Program, University of Washington
+
+Positional dissociation between the genetic mutation responsible for pseudohypoparathyroidism type Ib and the associated methylation defect at exon A/B: evidence for a long-range regulatory element within the imprinted GNAS1 locus
+M Bastepe, JE Pincus, T Sugimoto, K Tojo, M Kanatani, Y Azuma, K Kruse, AL Rosenbloom, H Koshiyama, H Juppner (2001)
+Hum. Mol. Genet., 10(12), 1231-41
+
+Two frequent tetra-nucleotide repeat polymorphisms between VAPB and STX16 on chromosome 20q13
+M Bastepe, JE Pincus, H Juppner (1999)
+Mol. Cell. Probes, 13(6), 449-51
+
+Constitutive activation of the cyclic adenosine 3',5'-monophosphate signaling pathway by parathyroid hormone (PTH)/PTH-related peptide receptors mutated at the two loci for Jansen's metaphyseal chondrodysplasia
+E Schipani, GS Jensen, J Pincus, RA Nissenson, TJ Gardella, H Juppner (1997)
+Mol. Endocrinol., 11(7), 851-8
