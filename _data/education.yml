@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Software Engineering Certificate
+  uni: Harvard University
+  year: 2013 &mdash; 2016
+  summary: Took a range of courses covering foundational computer science principles, systems programming, software design, and agile development.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Ph.D. in Molecular and Cellular Biology
+  uni: University of Washington
+  year: 2000 &mdash; 2006
+  summary: 'Thesis Title: "Hypomorphic Ribonucleotide Reductase Alleles are Synthetically Lethal with Mismatch Repair Defects"'
+
+- degree: Bachelor of Science in Biology/Life Science
+  uni: Massachusetts Institute of Technology
+  year: 1996 &mdash; 2000
+
