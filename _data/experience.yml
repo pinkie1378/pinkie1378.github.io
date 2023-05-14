@@ -1,19 +1,48 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Immuta
+  url: https://www.immuta.com
+  roles:
+    - position: Senior Software Engineer
+      duration: 2022 &mdash; 2023
+      summary: >-
+        Full-stack development in a Node.js/Typescript/Angular/PostgreSQL environment with a focus on backend performance enhancements.
+        Currently
+        <ul class="resume-item-list">
+          <li>Core member of team that:
+            <ul class="resume-item-list">
+              <li>Scaled the capacity of Immuta's Snowflake integration from ~10,000 tables to over 500,000.</li>
+              <li>Built performance pipeline to quantify and monitor improvements in Snowflake table registration.</li>
+            </ul>
+          </li>
+          <li>Designed and delivered solution to maintain Immuta's orchestrated policies on Snowflake tables that are destructively refreshed during automated ETL jobs.</li>
+          <li>Collaborating with team to integrate GraphQL/Elasticsearch auditing service into Immuta's legacy codebase.</li>
+        </ul>
+    - position: Senior Software Test Engineer
+      duration: 2018 &mdash; 2022
+      summary: >-
+        Responsible for the end-to-end (E2E) tests that exercise Immuta's Angular-based user interface.
+        <ul class="resume-item-list">
+          <li>Introduced new browser automation technology Playwright to replace Selenium-based Protractor.</li>
+          <li>
+            Built a state orchestration library, utilizing Immuta's API, to handle test setup/teardown, improving both the speed and reliability of tests.
+            Awarded an Immuta Values Award for the core value of Independent Achiever.
+          </li>
+          <li>Implemented majority of the nearly 1000 tests that must pass before code changes are accepted.</li>
+          <li>Immediately improved the existing E2E tests, which had become unmanageable, by applying best practices including the page object model design pattern and isolating the features under test.</li>
+        </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: National Center for Biotechnology Information
+  url: https://ncbi.nlm.nih.gov
+  roles:
+    - position: Scientific QA Engineer
+      duration:  2015 &mdash; 2018
+      summary: >-
+        Served as the technical lead and scrum master for the QA department.
+        <ul class="resume-item-list">
+          <li>Developed and maintained selenium based automated browser testing framework for the NCBI leveraging pytest, pytest-selenium, and holmium.core.</li>
+          <li>Participated in DevOps monitoring initiative utilizing the TICK stack and OpsGenie.</li>
+          <li>Developed and maintained automated tests for Pathogens Detection Browser, SciENcv, Tree Viewer, Assembly, and Graphical Sequence Viewer products.</li>
+          <li>Developed page objects modeling NCBI Entrez database pages, along with system to programmatically parameterize 1000+ automated tests for the Entrez databases.</li>
+          <li>Led effort to develop 200+ automated tests for the BankIt submission process.</li>
+          <li>Advised and mentored team members in writing automated tests.</li>
+          <li>Manually tested scientific applications Graphical Sequence Viewer, Tree Viewer, and Genome Workbench.</li>
+        </ul>
